@@ -5,4 +5,5 @@ Alg 1 in 'Unsupervised Action Discovery and Localization in Videos' [link](http:
 
 Dominant Set code is from [here](https://github.com/emanuele/dominant_set).
 
-##Results
+## Results
+![](dataset.png)
