@@ -10,3 +10,6 @@ Dominant Set code is from [here](https://github.com/emanuele/dominant_set).
 <img src="SpectralClustering.png" alt="drawing" width="400"/>
 <img src="DS.png" alt="drawing" width="400"/>
 <img src="DS-SVM.png" alt="drawing" width="400"/>
+<img src="dataset.png" alt="drawing" width="400"/> |  <img src="SpectralClustering.png" alt="drawing" width="400"/>
+:-------------------------------------------------:|:---------------------------------------------------------------:
+<img src="DS.png" alt="drawing" width="400"/>      |  <img src="DS-SVM.png" alt="drawing" width="400"/>
