@@ -10,10 +10,9 @@ import matplotlib.pyplot as plt
 
 def compute_kernel(X, Y=None, metric='mahalanobis'):
     D = pairwise_distances(X, Y, metric=metric)
-    sigma = np.median(D)
-    D /= sigma
-    D == D**2
-    S = np.exp(-D)
+    gamma = np.std(X)
+    D = D**2
+    S = np.exp(-gamma * D)
     return S
 
 
